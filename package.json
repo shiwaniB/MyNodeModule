@@ -1,0 +1,16 @@
+{
+  "name": "sample_node_module",
+  "version": "2.0.0",
+  "description": "saqmple node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "author": "shiwani <shivani.bamane@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiwaniB/demo_node_module_git_repo/issues"
+  },
+  "homepage": "https://github.com/shiwaniB/demo_node_module_git_repo#readme"
+}
